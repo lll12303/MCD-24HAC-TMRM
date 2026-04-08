@@ -7,7 +7,7 @@ Unlike conventional approaches that focus primarily on total activity volume, TM
 This framework is embedded within a broader analytical pipeline that integrates **epidemiological modeling, temporal representation learning, causal inference, and behavioral optimization**, providing a complete and modular solution for:
 
 - High-resolution temporal behavior representation across the 24-HAC  
-- Multimodal disease risk prediction using deep learning (TMRM)  
+- Multimodal disease risk prediction using deep learning (TMRM) 
 - Modeling nonlinear and dose–response relationships  
 - Mediation and causal inference analyses  
 - Personalized and population-level activity optimization strategies
